@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>First Capstone Project</b></h3>
+  <h3><b>FIRST CAPSTONE PROJECT</b></h3>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Setup and Finish Mobile
+# 📖 First Capstone Project
 
 <a name="about-project"></a>
 
@@ -68,7 +68,7 @@
 
 <a name="live-demo"></a>
 
-- The link to my online portfolio [Live Demo Link](https://meryemsanem.github.io/desktop-version/)
+- The link to my online portfolio [Live Demo Link](https://meryemsanem.github.io/capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
