@@ -521,13 +521,20 @@
     color: #fff;
   }
 
-  .welcome-about h4 {
-    font-size: 12px;
+  .contactt h4 {
+    font-size: 20px;
     font-weight: 400;
     text-align: center;
     color: #000;
     padding-bottom: 20px;
     padding-top: 10px;
+    text-decoration: underline;
+    margin-bottom: 30px;
+  }
+
+  .contactt .p4 {
+    font-size: 20px;
+    color: #363636;
   }
 
   .welcome-about .texts {
@@ -564,7 +571,7 @@
     line-height: 25px;
   }
 
-  .about-contact p {
+  .welcome-about2 p {
     display: flex;
     font-size: 16px;
     font-weight: 700;
@@ -575,7 +582,7 @@
     line-height: 25px;
   }
 
-  .about-contact h4 {
+  .welcome-about2 h4 {
     display: flex;
     font-size: 17px;
     font-weight: 800;
@@ -720,6 +727,10 @@
 @media only screen and (max-width: 767.9px) {
   body {
     background-color: white;
+  }
+
+  .contactt {
+    display: none;
   }
 
   .header-nav {
@@ -942,6 +953,7 @@
     letter-spacing: -0.01em;
     text-align: left;
     color: orangered;
+    padding-top: 1px;
   }
 
   .program-sche p {
@@ -1159,19 +1171,22 @@
     display: none;
   }
 
-  .texts2 {
+  .welcome-about2 .p3 {
     text-align: center;
     padding-top: 30px;
-    font-size: 16px;
+    font-size: 13px;
     font-weight: 500;
-    padding-bottom: 24px;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
     line-height: 24px;
     color: black;
+    background: white;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 30px;
   }
 
-  .about-contact p {
+  .welcome-about2 p {
     text-align: center;
     color: gray;
     padding: 30px 30px 0 30px;
@@ -1180,7 +1195,7 @@
     font-weight: 400;
   }
 
-  .about-contact h4 {
+  .welcome-about2 h4 {
     text-align: center;
     padding: 10px 30px 20px 30px;
     text-decoration: underline;
@@ -1199,7 +1214,7 @@
     font-size: 20px;
     margin-left: 74px;
     margin-right: 74px;
-    padding-top: 20px;
+    padding-top: 25px;
   }
 
   hr.line4 {
@@ -1228,6 +1243,8 @@
     margin: auto;
     max-width: fit-content;
     padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .past-summit h5 {
