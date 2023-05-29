@@ -1047,6 +1047,14 @@
     font-weight: 900;
   }
 
+  .speakers h2 {
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: 400;
+    color: #272a31;
+    text-align: center;
+  }
+
   .featured-speakers2 ul h2 {
     font-size: 15px;
     font-weight: 700;
@@ -1122,14 +1130,6 @@
     width: 10%;
     margin: auto;
     margin-top: 20px;
-  }
-
-  .speakers h2 {
-    font-size: 30px;
-    margin-top: 30px;
-    font-weight: 400;
-    color: #272a31;
-    text-align: center;
   }
 
   .linejs {
