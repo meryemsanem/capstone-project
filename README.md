@@ -155,7 +155,11 @@ Github Pages
 
 - **HTML file for Join**
 - **HTML file for Sponsors**
+
 - **HTML file for News**
+
+- **HTML files for News**
+
 - **Contact form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
