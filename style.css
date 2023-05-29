@@ -225,7 +225,7 @@
     background-image: url(images/pattern_bg.png);
   }
 
-  .program h1 {
+  .program h2 {
     color: #fff;
     font-size: 30px;
     font-weight: 400;
@@ -314,7 +314,7 @@
     text-align: center;
   }
 
-  .speakers h1 {
+  .speakers h2 {
     font-size: 30px;
     margin-top: 30px;
     font-weight: 400;
@@ -895,7 +895,7 @@
     height: 865px;
   }
 
-  .program h1 {
+  .program h2 {
     color: #fff;
     font-size: 30px;
     font-weight: 400;
@@ -1124,7 +1124,7 @@
     margin-top: 20px;
   }
 
-  .speakers h1 {
+  .speakers h2 {
     font-size: 30px;
     margin-top: 30px;
     font-weight: 400;
