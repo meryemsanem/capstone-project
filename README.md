@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Setup and Finish Mobile</b></h3>
+  <h3><b>First Capstone Project</b></h3>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <a name="about-project"></a>
 
-**Setup and Finish Mobile** is a project for the personal portfolio. HTML and CSS were used to create this project.
+**First Capstone Project** is a project for the Math Events. HTML, CSS and JavaScript were used to create this project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,6 +45,7 @@
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">Java Script</a></li>
   </ul>
 
 </details>
@@ -55,8 +56,9 @@
 
 <a name="key-features"></a>
 
-- **[HTML and CSS Linter]**
+- **[HTML , CSS and JavaScript Linter]**
 - **[Header and Headline with CSS Property ]**
+- **[DOM Manipulation ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,8 +96,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  cd my-portfolio
-  git clone https://github.com/meryemsanem/setup-and-mobile-first
+  cd desktop
+  git clone git@github.com:meryemsanem/capstone-project.git
 ```
 
 ### Install
@@ -103,7 +105,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd my-portfolio
+  cd capstone-project
   npm install
 ```
 
@@ -121,6 +123,8 @@ To run tests, run the following command:
 
 ```
   npx hint .
+  npx eslint .
+  npx stylelint "**/*.{css,scss}"
 ```
 
 ### Deployment
@@ -149,7 +153,9 @@ Github Pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Java Script**
+- **HTML file for Join**
+- **HTML file for Sponsors**
+- **HTML files for News**
 - **Contact form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -176,7 +182,7 @@ If you like this project please give a ⭐️ to support me.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank you yo my coding partners.
+I would like to thank you to design owner Cindy Shin.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
