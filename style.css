@@ -200,7 +200,7 @@
   .welcome h3 {
     font-size: 43px;
     font-weight: 900;
-    color: gray;
+    color: #363636;
     padding-bottom: 20px;
     padding-top: 40px;
     margin: 0 287px 0 0;
@@ -210,7 +210,7 @@
   .welcome h4 {
     font-size: 28px;
     font-weight: 700;
-    color: gray;
+    color: #363636;
     padding-bottom: 110px;
     margin: 0 287px 0 0;
     font-family: "Lato", serif;
